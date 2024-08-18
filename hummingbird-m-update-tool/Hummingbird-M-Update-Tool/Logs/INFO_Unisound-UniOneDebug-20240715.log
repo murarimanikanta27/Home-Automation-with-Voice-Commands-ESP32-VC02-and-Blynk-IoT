@@ -1,0 +1,20 @@
+Log file created at: 2024/07/15 20:59:36  PID: 14252
+Running on machine: MURARI
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0715 20:59:36.800618 15812 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], version: V1.0.1 
+ 
+I0715 21:00:46.954342 15812 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 3 
+I0715 21:00:46.961813 15812 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM put_setting 921600, N, 8, 1 port:3 
+ 
+I0715 21:00:47.480777 15812 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 5 
+I0715 21:00:47.486779 15812 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM put_setting 921600, N, 8, 1 port:5 
+ 
+I0715 21:00:48.009534 15812 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 4 
+I0715 21:00:53.167759 15812 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 6 
+I0715 21:00:58.300376 15812 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 7 
+I0715 21:00:58.310985 15812 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM put_setting 921600, N, 8, 1 port:7 
+ 
+I0715 21:01:27.577033 11568 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM7 XmodermSendFile detected CCC, start send file 
+ 
+I0715 21:01:27.579062 11568 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM7 ReadSendFile C:\Users\murar\OneDrive\Desktop\ai thinker vc 02 module\outputbo\output\uni_app_release_update.bin m_iTransferTimes finished 1296 
+ 
